@@ -3,3 +3,8 @@ PEKERJAAN RUMAH
 - Membuat local repository
 - Membuat push supaya sama di github
 - Mengirim link
+
+
+PEKERJAAN RUMAH DUA
+
+- Membuat hal yang sama

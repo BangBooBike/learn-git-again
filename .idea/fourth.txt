@@ -1,0 +1,3 @@
+PERCOBAAN KE 2
+    - membuat fourth txt masuk ke staging area
+    - membuat commint adding fourth txt
